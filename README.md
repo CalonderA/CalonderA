@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Calonder%20&theme=dark&locale=ru" alt="GitHub Streak" /></a>
+
 <!---
 CalonderA/CalonderA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
